@@ -1,6 +1,6 @@
 # Work Plan 9. Divine flight
 
-Task 9.1 : Drone beetles « https://goo.gl/pjws8C , https://goo.gl/oM4k10 »
+Task 9.1 : Dung beetles flight « https://bit.ly/3v0FqF5 »
 
 Task 9.2 : Dragonflies « https://bit.ly/3leonJ6 »
 
