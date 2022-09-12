@@ -5885,7 +5885,7 @@ def wings():
 # left or right
     helicity = 'left'
 
-    start = 180
+    start = 0
     end = start-1440
 
     global wing_left
@@ -5897,7 +5897,7 @@ def wings():
 # left or right
     helicity = 'right'
 
-    start = -180
+    start = 0
     end = start+1440
 
     global wing_right
